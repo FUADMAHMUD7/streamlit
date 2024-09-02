@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.write('# FU')
+st.write('# FU CALC')
 number1 = st.number_input('number 1')
 
 # Define options for the selectbox
