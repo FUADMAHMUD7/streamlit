@@ -1,4 +1,4 @@
-import streamlit as st
+import FU as st
 
 st.write('# Streamlit calculator')
 number1 = st.number_input('number 1')
